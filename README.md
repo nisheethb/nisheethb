@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Nisheeth!
+- 💼 I currently work as a Data Engineer at [Square](https://www.squareup.com/)
+- 💞️ I’m interested in all things data - Data Engineering, Machine Learning, ML Ops, Data Visualization
+- 🌱 I also have some experience and interest in developing data-driven web applications.
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nisheethb/)
